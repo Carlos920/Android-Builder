@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Mi6",
-      "repo": "https://github.com/Nanhumly-Staging/android_kernel_xiaomi_msm8998",
-      "branch": "lineage-20",
+      "repo": "https://github.com/Nanhumly-Staging/android_kernel_xiaomi_msm8998.git",
+      "branch": "lineage-20.0",
       "device": "sagit",
       "defconfig": "sagit_defconfig"
     },
